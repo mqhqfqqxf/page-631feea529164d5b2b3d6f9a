@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-f732bb6142.guofx.cn/sitemap.xml
